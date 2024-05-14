@@ -19,3 +19,6 @@ This is how you can use free Gpu runtime more than Google Colab
 Here my Huggingface space with Cpu
 https://huggingface.co/spaces/victorisgeek/DeepfakeFaceswap
 ---
+Please Use your own 
+Ngrok auth Token
+---
