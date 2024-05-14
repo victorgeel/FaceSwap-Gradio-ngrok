@@ -14,3 +14,5 @@ license: apache-2.0
 Here Kaggle notebook link
 https://www.kaggle.com/code/victorisgeek/roopunlock-ngrok
 ---
+This is how you can use free Gpu runtime more than Google Colab 
+---
