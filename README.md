@@ -22,3 +22,8 @@ https://huggingface.co/spaces/victorisgeek/DeepfakeFaceswap
 Please Use your own 
 Ngrok auth Token at kaggle notebook 
 ---
+Update!
+
+Video Faceswap Kaggle notebook 
+
+https://www.kaggle.com/code/victorisageek/videoswap
